@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <graph id="G" edgedefault="undirected">
+    <node id="A123"/>
+    <node id="A456"/>
+    <node id="A789"/>
+    <node id="A321"/>
+    <node id="A654"/>
+
+    <edge source="A123" target="A456"/>
+    <edge source="A456" target="A789"/>
+    <edge source="A789" target="A123"/>
+    <edge source="A321" target="A123"/>
+  </graph>
+</graphml>

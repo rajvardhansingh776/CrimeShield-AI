@@ -1,0 +1,6 @@
+fir_id,date_time,crime_type,latitude,longitude,accused,victim,details
+FIR001,2025-01-01 14:30:00,Theft,28.7041,77.1025,A123,B901,Mobile phone stolen near market
+FIR002,2025-01-03 09:15:00,Robbery,19.0760,72.8777,A456,B902,Chain snatching case
+FIR003,2025-01-05 22:40:00,Assault,12.9716,77.5946,A789,B903,Street fight incident
+FIR004,2025-01-10 18:00:00,Burglary,26.9124,75.7873,A321,B904,House break-in reported
+FIR005,2025-01-12 07:45:00,Theft,22.5726,88.3639,A654,B905,Bike stolen outside office

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "region": "Zone A", "population": 52000, "density": 11200 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.0,28.70],[77.20,28.70],[77.20,28.80],[77.0,28.80],[77.0,28.70]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "Zone B", "population": 34000, "density": 8900 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.80,19.00],[72.95,19.00],[72.95,19.10],[72.80,19.10],[72.80,19.00]]]
+      }
+    }
+  ]
+}
